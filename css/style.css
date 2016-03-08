@@ -1,0 +1,95 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+/*body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}*/
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+} 
+
+p {
+	font-family: 'Verdana', sans-serif;
+	font-weight: 400;
+}
+
+a {
+	font-family: 'Verdana', sans-serif;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(41,41,41,0.45);
+}
+
+.jumbotron {
+	position: relative;
+}
+
+.btn-primary {
+	background: #008aff;
+	border: none;
+	border-radius: 0;
+	color: #ffffff;
+}
+
+.btn-default {
+	background: #008aff;
+	border: none;
+	border-radius: 0;
+	color: #ffffff;
+}
+
+.btn:hover {
+
+}
+
+.navbar-fixed-top {
+	background-color: #ffffff;
+	color: #008aff;
+	border-bottom: 2px solid #008aff;
+}
+
+.navbar-fixed-top a {
+	color: #008aff;
+	font-weight: bold;
+}
+
+#cta {
+	padding: 120px 0;
+	background: url("../img/cta.jpg") no-repeat;
+	background-size: cover;
+	background-position: 50% 40%;
+}
+
+.jumbotron  h1, .jumbotron h4 {
+	color: #ffffff;
+}
+
+.jumbotron h1 {
+	font-weight: 700;
+}
+
+#review {
+	font-weight: 400;
+}
+
+.jumbotron p {
+	color: #ffffff;
+}
+
+.center {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
