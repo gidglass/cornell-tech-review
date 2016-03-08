@@ -68,6 +68,7 @@ a {
 	background: url("../img/cta.jpg") no-repeat;
 	background-size: cover;
 	background-position: 50% 40%;
+	border-bottom: 3px solid #008aff;
 }
 
 .jumbotron  h1, .jumbotron h4 {
